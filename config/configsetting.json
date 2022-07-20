@@ -1,0 +1,26 @@
+{
+    "key": {
+        "privateKey": "c3f42e68-b461-4bc1-ae2c-da9f27ee3a20",
+        "tokenExpiry": "43200000"
+    },
+   
+    "MONGODB": {
+        "LOCALHOST": {
+            "URL": "mongodb://localhost:27017/demo"
+        }       
+    },
+    "LOCALURL": "http://localhost:5000/",
+    "STAGEURL": "http://localhost:5000/",
+    "PRODURL": "",
+    "LIVEURL": "",
+    "STAGINGURL": "",
+    "EMAIL": "",
+    "JWTOKENLOCAL": "fax42c62-g215-4dc1-ad2d-sa1f32kk1w22",
+    "JWTOKENSTAGING": "fcv42f62-g465-4dc1-ad2c-sa1f27kk1w43",
+    "JWTOKENDEV": "fcv42f62-g465-4dc1-ad2c-sa1f27kk1w43",
+    "JWTOKENLIVE": "asd42e62-g465-4bc1-ae2c-da1f27kk3a20",
+    "_id": "5c8b359427a13955bb1f8d21",
+    "createdAt": "2019-03-15T05:18:12.635Z",
+    "updatedAt": "2019-03-15T05:37:10.199Z",
+    "__v": 0
+}
